@@ -9,7 +9,7 @@
   <a href="https://portfolio.luanibanhez.tech/curriculo-luan-ibanhez.pdf"><img src="https://img.shields.io/badge/Curr%C3%ADculo-PDF-22407a?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Currículo em PDF"></a>
 </p>
 
-<img align="right" width="140" src="assets/mascote.webp" alt="Mascote do Luan acenando">
+<img align="right" width="140" src="assets/mascote.webp" alt="Mascote do Luan fazendo joinha">
 
 Desenvolvedor Full Stack com foco em PHP e Laravel, de Caraguatatuba (SP). Sou estagiário na Secretaria de Educação de Caraguatatuba desde outubro de 2024 e aluno de Análise e Desenvolvimento de Sistemas no IFSP.
 
@@ -22,9 +22,11 @@ Desenvolvedor Full Stack com foco em PHP e Laravel, de Caraguatatuba (SP). Sou e
 
 ## Stack
 
-<img src="assets/stack.svg" width="380" alt="PHP, Laravel, Tailwind CSS, HTML, CSS, JavaScript, TypeScript, React, Next.js, MySQL, Git, GitHub, Linux e Nginx">
+<p align="center">
+  <img src="assets/stack.svg" width="420" alt="Backend e infraestrutura: PHP, Laravel, MySQL, Nginx, Linux, Git e GitHub. Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React e Next.js">
+</p>
 
-Também uso Livewire, Alpine.js, TallStackUI, Sanctum, Reverb (WebSocket), Spatie Permission, Pest, PHPUnit e Scribe.
+<p align="center">Também uso Livewire, Alpine.js, TallStackUI, Sanctum, Reverb (WebSocket), Spatie Permission, Pest, PHPUnit e Scribe.</p>
 
 ## Projetos
 
